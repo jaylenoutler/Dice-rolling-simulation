@@ -18,3 +18,5 @@
 .Design a powerpoint slide presenting the Password Generator
  
 .Upload slide to repository in Github
+
+Be sure toadd commits
