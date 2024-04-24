@@ -19,4 +19,4 @@
  
 .Upload slide to repository in Github
 
-Be sure toadd commits
+Be sure to add commits your project.
